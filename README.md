@@ -18,3 +18,5 @@ To connect to a SASL-enabled Memcached bucket:
 ```console
 bmemcached-cli username:password@host:port [host:port]
 ```
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/444ac886fef2c00bbe2b1272bd3505f3 "githalytics.com")](http://githalytics.com/RedisLabs/bmemcached-cli)
