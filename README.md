@@ -6,7 +6,7 @@ bmemcached-cli is a simple python wrapper for python-binary-memcached. This is a
 ## Installing
 Download the source and run the following command in the directory:
 ```console
-pip install . -r requirements.txt
+pip install . -r requirements.pip
 ```
 
 ## Using
